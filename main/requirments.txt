@@ -1,0 +1,9 @@
+streamit==1.22.0
+tensorflow==2.7.0
+pillow==10.0.1
+numpy==1.24.3
+keras==2.7.0
+folium==0.14.0
+pandas==1.5.3
+streamlit-folium==0.15.0
+weatherbit.api==2.2.1
